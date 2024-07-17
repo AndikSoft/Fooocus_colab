@@ -20,6 +20,10 @@
 <a href="https://colab.research.google.com/drive/1R9BdUV5t-YxRIt9t0RMp2g8ndxk51oNl?usp=sharing" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-	<p>Если вы хотите запустить в режиме Realistic или в режиме Anime замените строку кода <p>!python entry_with_update.py --share на строку !python entry_with_update.py --preset anime --share для режима Аниме,</p> <p>или на</p><p>!python entry_with_update.py --preset realistic --share для режима Реализма.</p>
+	<p>Если вы хотите запустить в режиме Realistic или в режиме Anime замените строку кода</p>
+ 
+        <p>!python entry_with_update.py --share на строку !python entry_with_update.py --preset anime --share для режима Аниме,</p>
+	
+        <p>!python entry_with_update.py --preset realistic --share для режима Реализма.</p>
 </body>
 </html>
