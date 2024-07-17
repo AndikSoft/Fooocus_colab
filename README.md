@@ -22,6 +22,6 @@
 </a>
 	<p>Если вы хотите запустить в режиме Realistic или в режиме Anime замените строку кода</p>
  <p>Для режима Аниме - !python entry_with_update.py --share на строку !python entry_with_update.py --preset anime --share</p>
-	<p>Для режима Реализма!python entry_with_update.py --preset realistic --share</p>
+	<p>Для режима Реализма - !python entry_with_update.py --preset realistic --share</p>
 </body>
 </html>
