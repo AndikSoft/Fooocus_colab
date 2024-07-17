@@ -17,12 +17,13 @@
 <p>Fooocus включает в себя и автоматизирует множество внутренних оптимизаций и улучшений качества. Пользователи могут забыть обо всех этих сложных технических параметрах и просто наслаждаться взаимодействием между человеком и компьютером, чтобы «исследовать новые средства мышления и расширять возможности воображения человеческого вида».</p>
 <h1>Запуск в Google Colab</h1>
     <ph1>Этот проект создан, чтобы помочь вам с легкостью запускать код в Google Colab. Просто нажмите кнопку ниже, чтобы начать.</p>
+	    <a href="https://colab.research.google.com/drive/1R9BdUV5t-YxRIt9t0RMp2g8ndxk51oNl?usp=sharing" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
     <p>Нажимаете на кнопку плей, соглашаетесь с гуглом и жмите кнопку Выполнить. Ждите пока произойдёт скачивание и установка на сервер Google Colab, это может занять до 10 минут.</p>
 <p>Вы поймете что установка завершена и программа готова к работе когда внизу консоли увидите App started successful. и рядом будет ссылка вида https://какие-то-цифры.gradio.live, вот на неё и надо будет кликнуть. Программа откроется готовая к работе.</p>
 	
-<a href="https://colab.research.google.com/drive/1R9BdUV5t-YxRIt9t0RMp2g8ndxk51oNl?usp=sharing" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+
 	<p>Если вы хотите запустить в режиме Realistic или в режиме Anime замените строку кода</p>
  <p>Для режима Аниме - !python entry_with_update.py --share на строку !python entry_with_update.py --preset anime --share</p>
 	<p>Для режима Реализма - !python entry_with_update.py --preset realistic --share</p>
