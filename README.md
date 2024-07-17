@@ -1,11 +1,10 @@
-# Fooocus_colab
 <!DOCTYPE html>
 <html>
 <head>
     
 </head>
 <body>
-    <h1>Fooocus</h1>
+    <h1>Fooocus_colab</h1>
 <p>Fooocus - это программное обеспечение для генерации изображений (основанное на Gradio).</p>
 
 <p>Fooocus - это переосмысление дизайна Stable Diffusion и Midjourney:</p>
