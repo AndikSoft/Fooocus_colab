@@ -6,24 +6,21 @@
 </head>
 <body>
     <h1>Fooocus</h1>
-<p>Fooocus is an image generating software (based on Gradio).</p>
+<p>Fooocus - это программное обеспечение для генерации изображений (основанное на Gradio).</p>
 
-<p>Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs:</p>
+<p>Fooocus - это переосмысление дизайна Stable Diffusion и Midjourney:</p>
 
-<p>Learned from Stable Diffusion, the software is offline, open source, and free.</p>
+<p>Программное обеспечение, полученное от Stable Diffusion, является автономным, с открытым исходным кодом и бесплатным.</p>
 
-<p>Learned from Midjourney, the manual tweaking is not needed, and users only need to focus on the prompts and images.</p>
+<p>Благодаря опыту Midjourney ручная настройка не требуется, и пользователям нужно сосредоточиться только на подсказках и изображениях.</p>
 
-<p>Fooocus has included and automated lots of inner optimizations and quality improvements. Users can forget all those difficult technical parameters, and just enjoy the interaction between human and computer to "explore new mediums of thought and expanding the imaginative powers of the human species" .</p>
-
-<p>Fooocus has simplified the installation. Between pressing "download" and generating the first image, the number of needed mouse clicks is strictly limited to less than 3. Minimal GPU memory requirement is 4GB (Nvidia).</p>
+<p>Fooocus включает в себя и автоматизирует множество внутренних оптимизаций и улучшений качества. Пользователи могут забыть обо всех этих сложных технических параметрах и просто наслаждаться взаимодействием между человеком и компьютером, чтобы «исследовать новые средства мышления и расширять возможности воображения человеческого вида».</p>
     <p>Этот проект создан, чтобы помочь вам с легкостью запускать код в Google Colab. Просто нажмите кнопку ниже, чтобы начать.</p>
     <a href="https://colab.research.google.com/drive/1R9BdUV5t-YxRIt9t0RMp2g8ndxk51oNl?usp=sharing" target="_blank">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
 </body>
 </html>
-
 
 
 
