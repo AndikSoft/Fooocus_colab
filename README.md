@@ -21,9 +21,7 @@
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 	<p>Если вы хотите запустить в режиме Realistic или в режиме Anime замените строку кода</p>
- 
-        <p>!python entry_with_update.py --share на строку !python entry_with_update.py --preset anime --share для режима Аниме,</p>
-	
-        <p>!python entry_with_update.py --preset realistic --share для режима Реализма.</p>
+ <p>!python entry_with_update.py --share на строку !python entry_with_update.py --preset anime --share для режима Аниме</p>
+	<p>!python entry_with_update.py --preset realistic --share для режима Реализма.</p>
 </body>
 </html>
