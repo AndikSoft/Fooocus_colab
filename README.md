@@ -22,7 +22,10 @@
     <p>Нажимаете на кнопку плей, соглашаетесь с гуглом и жмите кнопку Выполнить. Ждите пока произойдёт скачивание и установка на сервер Google Colab, это может занять до 10 минут.</p>
 <p>Вы поймете что установка завершена и программа готова к работе когда внизу консоли увидите App started successful. и рядом будет ссылка вида https://какие-то-цифры.gradio.live, вот на неё и надо будет кликнуть. Программа откроется готовая к работе.</p>
 	<p>Если вы хотите запустить в режиме Realistic или в режиме Anime замените строку кода</p>
- <p>В Colab вы можете изменить последнюю строку на или для Fooocus Default/Anime/Realistic Edition.!python entry_with_update.py --share --always-high-vram!python entry_with_update.py --share --always-high-vram --preset anime!python entry_with_update.py --share --always-high-vram --preset realistic</p>
+ <p>В Colab вы можете изменить последнюю строку на или для Fooocus Default/Anime/Realistic Edition.</p>
+	    <p>!python entry_with_update.py --share --always-high-vram</p>
+	    <p>!python entry_with_update.py --share --always-high-vram --preset anime</p>
+	    <p>!python entry_with_update.py --share --always-high-vram --preset realistic</p>
 <h1>ОТКАЗ</h1>
 <p>Я не несу ответственности за любые прямые, косвенные, косвенные, случайные или особые убытки, возникшие в результате или каким-либо образом связанные с использованием/неправильным использованием или невозможностью использования данного программного обеспечения.</p>
 </body>
